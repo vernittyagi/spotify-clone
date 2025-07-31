@@ -1,0 +1,26 @@
+.invert{
+    filter: invert(1);
+}
+
+.small-icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.margin-top{
+    margin-top: 10px;
+}
+
+
+.login{
+    background-color: #ffffff;
+    padding: 15px;
+    min-width: 100px;
+    border-radius: 25px;
+    color: black;
+}
+
+.rounded-div{
+    border-radius: 4px;
+}
